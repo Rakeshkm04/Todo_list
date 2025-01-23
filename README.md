@@ -17,3 +17,8 @@ and using this technologies i design this code list and it's taken a stactic dat
 lost a not a advance technology used in this html and css and javascript webpage 
 so it's a begineer level of the project and throught this  we learn lo;s of things of making logic and designing.
 
+ok user so this is the normal todo list using html, css and basic javascript
+and i design this todo list for practice of our logic is good or not
+so all those who check and view this so please make the project and learn new things in html, css and javascript
+because how your learning is strong so the your growth is also fast, so start learning and make new things in your project
+make project read and learing process is good
