@@ -28,3 +28,4 @@ make project read and learing process is good
 hello everyone this the my old todo project so in this project i learn lot's of things like html, css and javascript logic in this
 project and i know in this project not lot's of the styling but i learn the logic section 
 like add new task delete the tasks and edit the new tasks etc.
+and in design section learn the html and css section to learn and update the toda list and add function in the javascript file and so in future i design and this file is deleted.
