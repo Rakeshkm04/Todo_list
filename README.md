@@ -22,3 +22,9 @@ and i design this todo list for practice of our logic is good or not
 so all those who check and view this so please make the project and learn new things in html, css and javascript
 because how your learning is strong so the your growth is also fast, so start learning and make new things in your project
 make project read and learing process is good
+
+
+
+hello everyone this the my old todo project so in this project i learn lot's of things like html, css and javascript logic in this
+project and i know in this project not lot's of the styling but i learn the logic section 
+like add new task delete the tasks and edit the new tasks etc.
