@@ -44,3 +44,8 @@ This is the normal todo list using html, css and javascript and in this these te
 and using this technologies i deisgn this todo list and it's taken a static data only
 and it's a simple todo list not a advanced technology used in this html and css and javascript webpage
 so it's a beginner level of project and through this we learn lot's of thing of making logic and designing.
+
+
+
+Hello all, hope all are doing well! so this is the normal todo list and this is design using html, css and javascript and these technologies are used to design this todo list and it's taken a static data only and it's a simple todo list not a advanced technology used in this html and css and javascript webpage
+so it's a beginner level of project and through this we learn lot's of things of making logic and designing.
