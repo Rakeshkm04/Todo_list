@@ -36,3 +36,11 @@ This is the web development course and this is also my olf todo project so in th
 things like html, css and javascript and the logic in this project and i know in this project not lot's of the 
 styling and the logic section like add new task, delete the task and edit the new tasks etc
 and in the designig section learn the html and css section to learn and how update the todo list and add function in the javascript file and so in future i design and this file is deleted and not be create.
+
+
+
+
+This is the normal todo list using html, css and javascript and in this these technologies are used to
+and using this technologies i deisgn this todo list and it's taken a static data only
+and it's a simple todo list not a advanced technology used in this html and css and javascript webpage
+so it's a beginner level of project and through this we learn lot's of thing of making logic and designing.
