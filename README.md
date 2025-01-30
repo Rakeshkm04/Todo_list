@@ -49,3 +49,11 @@ so it's a beginner level of project and through this we learn lot's of thing of 
 
 Hello all, hope all are doing well! so this is the normal todo list and this is design using html, css and javascript and these technologies are used to design this todo list and it's taken a static data only and it's a simple todo list not a advanced technology used in this html and css and javascript webpage
 so it's a beginner level of project and through this we learn lot's of things of making logic and designing.
+'
+
+
+
+
+
+so, today, i'm learning the main how to design the folder structure of the webpage because it's 
+most important things to start a project without any folder structure any website is incomplete so first things learning the structure of the website 
