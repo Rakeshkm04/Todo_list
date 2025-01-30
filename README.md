@@ -57,3 +57,8 @@ so it's a beginner level of project and through this we learn lot's of things of
 
 so, today, i'm learning the main how to design the folder structure of the webpage because it's 
 most important things to start a project without any folder structure any website is incomplete so first things learning the structure of the website 
+
+
+And the second things is the javascript virtual dom and it is use to create changes in html and css file 
+with touch any index and css file we do changes in the html and css file using html and css 
+and virtual dom is one of the most important topic in the javascript series so revice it's twice
