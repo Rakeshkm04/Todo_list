@@ -65,3 +65,10 @@ and virtual dom is one of the most important topic in the javascript series so r
  
  123456789
  123456789
+
+
+
+
+ hello everyone, so this is the normal todo list and in this list we learn lot's of new things
+ the main things is the knowledge gain of adding new functionality and fresh and sharpe your brain to create new logics
+ 
