@@ -71,4 +71,8 @@ and virtual dom is one of the most important topic in the javascript series so r
 
  hello everyone, so this is the normal todo list and in this list we learn lot's of new things
  the main things is the knowledge gain of adding new functionality and fresh and sharpe your brain to create new logics
- 
+ so in this todo list this is normally a todo list not lot's of things in this list and create and design the 
+ technologies 
+ i used to like html, css, bootstrap and main i mean 
+ the most import part is the javascript in this concept 
+ learn and make sure for the list and combine this concept of the todo list of the normal project.
