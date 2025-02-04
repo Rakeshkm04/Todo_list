@@ -76,3 +76,10 @@ and virtual dom is one of the most important topic in the javascript series so r
  i used to like html, css, bootstrap and main i mean 
  the most import part is the javascript in this concept 
  learn and make sure for the list and combine this concept of the todo list of the normal project.
+
+ and make new project in a week and learn lot's of things like the project of new model 
+ and through this project we learn lot's of things like main parts of the project is adding functionality of the code 
+ in the technologies like 
+ html, css and javascript
+ and i though i also not doing a word work and this kind of hardwork is not important in the life 
+ think for this thing and make more hard work.
