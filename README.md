@@ -83,3 +83,6 @@ and virtual dom is one of the most important topic in the javascript series so r
  html, css and javascript
  and i though i also not doing a word work and this kind of hardwork is not important in the life 
  think for this thing and make more hard work.
+
+
+In this project i learn not a single piece of code so i don't know what i do in my life and what should i do next in my life a single hope i don't know what and why but i know very well i do lot's hardwork
