@@ -86,4 +86,7 @@ and virtual dom is one of the most important topic in the javascript series so r
 
 
 In this project i learn not a single piece of code so i don't know what i do in my life and what should i do next in my life a single hope i don't know what and why but i know very well i do lot's hardwork
-and i don't how much time i'll do this kind of behaviour of me and some bad habbits in my prosonality i don't know what and why>
+and i don't how much time i'll do this kind of behaviour of me and some bad habbits in my prosonality i don't know what and why
+
+
+so i hope this kind of think ki i think future is best
