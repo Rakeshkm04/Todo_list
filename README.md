@@ -101,3 +101,10 @@ and these technologies are best to learn your development journey
 and in this project i'm learning lot's of things like the crud operations create, read, edit and delete operations
 and using this technologies this is project is the starting of the web development journey of the life so in this 
 development journey i'm learning a lot's of new and old things 
+
+
+
+and this project is not a high level of expection but if you are are fresher and you start
+your development journey so start these projects and learn new things like 
+calculator todo app etc so learn and develop these types of the project 
+best of luck to you.
