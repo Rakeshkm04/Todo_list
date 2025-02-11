@@ -96,3 +96,8 @@ so i hope this kind of think ki i think future is best
 
 Basically this is the normal todo list project and this project makes to use the technologies like html, css and bootstrap 
 and these technologies are best to learn your development journey
+
+
+and in this project i'm learning lot's of things like the crud operations create, read, edit and delete operations
+and using this technologies this is project is the starting of the web development journey of the life so in this 
+development journey i'm learning a lot's of new and old things 
