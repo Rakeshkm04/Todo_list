@@ -90,3 +90,9 @@ and i don't how much time i'll do this kind of behaviour of me and some bad habb
 
 
 so i hope this kind of think ki i think future is best
+
+
+
+
+Basically this is the normal todo list project and this project makes to use the technologies like html, css and bootstrap 
+and these technologies are best to learn your development journey
