@@ -108,3 +108,13 @@ and this project is not a high level of expection but if you are are fresher and
 your development journey so start these projects and learn new things like 
 calculator todo app etc so learn and develop these types of the project 
 best of luck to you.
+
+
+
+I don't know what should i do next because i leaving this job surely but i don't know how much time 
+my destiny is taken to get a job, i really don't know.
+the the main is happiness and the releax mind of my word...... i don't know what happend is next in my life
+
+
+
+i only depends only the hope and i expectly the hardward of my 
