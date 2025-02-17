@@ -126,3 +126,4 @@ finally i taken a risk and all of these kind of things is pending in my life and
 
 basically this is the normal todo list this is the basic project to learn new things and collect the knowledge gain and earn new things 
 so start learn and make projects to learn and earn this batch and the certification and new records
+and this is the basic project used to new technologies like html css and javascript this is the main javascript project to learn and make new project so first you larn and then makes some new project to deploy
