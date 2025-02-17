@@ -120,3 +120,9 @@ the the main is happiness and the releax mind of my word...... i don't know what
 
 The main reason is to quit this job is first is very long distance and loo salary, in this salary i don't know what i do and what should i do 
 finally i taken a risk and all of these kind of things is pending in my life and start new journey for the new life so welcome and quit belive in your self
+
+
+
+
+basically this is the normal todo list this is the basic project to learn new things and collect the knowledge gain and earn new things 
+so start learn and make projects to learn and earn this batch and the certification and new records
